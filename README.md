@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/userupload/9473889/file/original-c5b0db9b08b4b075e4fb4afb382f5e6f.png)
+![MasterHead](https://cdn.dribbble.com/userupload/9474252/file/original-f80c6477de5911630909068ad54bc646.png)
 <h1 align="center">Hi 👋, I'm Terry Abraham</h1>
 <h3 align="center">A passionate A.I enthusiast from India.</h3>
 
